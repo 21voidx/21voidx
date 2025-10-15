@@ -6,9 +6,10 @@ I have strong interest in Data Engineering and Machine Learning.
 ### Tech Stack
 * **Python**
 * **PySpark** 
-* **PostgreSQL** 
-* **Databricks** 
+* **PostgreSQL**
 * **Luigi**
+### currently learning:
+* **Databricks** 
 * **Airflow** 
 * **dbt**
 
