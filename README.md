@@ -12,6 +12,7 @@ I have strong interest in Data Engineering and Machine Learning.
 * **Databricks** 
 * **Airflow** 
 * **dbt**
+* **GCP**
 
 ---
 
