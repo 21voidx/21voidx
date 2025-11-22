@@ -8,11 +8,12 @@ I have strong interest in Data Engineering and Machine Learning.
 * **PySpark** 
 * **PostgreSQL**
 * **Luigi**
-### currently learning:
-* **Databricks** 
-* **Airflow** 
+### currently learning: 
+* **Airflow**
+* **Kafka**
 * **dbt**
 * **GCP**
+* **Databricks**
 
 ---
 
