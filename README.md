@@ -5,16 +5,11 @@ I have strong interest in Data Engineering and Machine Learning.
 
 ### Tech Stack
 * **Python**
-* **PySpark** 
-* **PostgreSQL**
-* **Luigi**
-### currently learning: 
 * **Airflow**
-* **Kafka**
-* **dbt**
-* **GCP**
-* **Databricks**
-
+* **PySpark**
+* **Dbt**
+* **PostgreSQL**
+* **Docker**
 ---
 
 ### Github Statistic
