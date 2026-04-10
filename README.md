@@ -8,8 +8,10 @@ I have strong interest in Data Engineering and Machine Learning.
 * **Airflow**
 * **PySpark**
 * **Dbt**
-* **PostgreSQL**
+* **SQL**
 * **Docker**
+* **Kubernetes**
+* **GCP**
 ---
 
 ### Github Statistic
