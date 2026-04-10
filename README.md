@@ -6,9 +6,10 @@ I have strong interest in Data Engineering and Machine Learning.
 ### Tech Stack
 * **Python**
 * **Airflow**
+* **SQL**
 * **PySpark**
 * **Dbt**
-* **SQL**
+* **Trino**
 * **Docker**
 * **Kubernetes**
 * **GCP**
