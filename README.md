@@ -13,6 +13,7 @@ I have strong interest in Data Engineering and Machine Learning.
 * **Docker**
 * **Kubernetes**
 * **GCP**
+* **AWS**
 ---
 
 ### Github Statistic
