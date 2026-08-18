@@ -14,6 +14,8 @@ I have strong interest in Data Engineering and Machine Learning.
 * **Kubernetes**
 * **GCP**
 * **AWS**
+* Looker
+* Excel
 ---
 
 ### Github Statistic
