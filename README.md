@@ -1,6 +1,6 @@
 ### Hi! 👋 I'm Hafizh
 
-Data Engineer based in Jakarta Metropolitan Area, focused on building reliable **ETL/ELT pipelines, cloud data warehouses, analytics-ready models, data quality checks adn BI Dashboard**.
+Data Engineer based in Jakarta Metropolitan Area, focused on building reliable **ETL/ELT pipelines, cloud data warehouses, analytics-ready models, data quality checks and BI Dashboard**.
 
 Experienced with Apache Airflow, dbt, BigQuery, Trino, Docker, and CI/CD through professional and portfolio projects.
 
