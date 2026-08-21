@@ -2,7 +2,7 @@
 
 Data Engineer based in Jakarta Metropolitan Area, focused on building reliable **ETL/ELT pipelines, cloud data warehouses, analytics-ready models, and data quality checks**.
 
-Experienced with Apache Airflow, dbt, BigQuery, Trino, PySpark, Docker, and CI/CD through professional and portfolio projects.
+Experienced with Apache Airflow, dbt, BigQuery, Trino, Docker, and CI/CD through professional and portfolio projects.
 
 ---
 
@@ -18,13 +18,24 @@ Experienced with Apache Airflow, dbt, BigQuery, Trino, PySpark, Docker, and CI/C
 
 ### Tech Stack
 
-- **Languages:** Python, SQL, C++
-- **Data Engineering:** Airflow, dbt, Trino, PySpark
-- **Cloud & Database:** BigQuery, GCS, PostgreSQL, AWS S3
-- **DevOps:** Docker, Kubernetes, GitHub Actions, GitLab CI/CD
-- **Analytics & BI:** Looker Studio, Excel
+**Programming:** SQL, Python, C++
+
+**Data Pipelines & Orchestration:** Apache Airflow, dbt, Trino. Familiar with PySpark.
+
+**Cloud & Database:** BigQuery, GCS, PostgreSQL, AWS S3
+
+**Warehousing & Modeling:** PostgreSQL, dimensional modeling, data marts, partitioning, clustering, incremental models.
+
+**Data Engineering Concepts:** Incremental processing, backfills, deduplication, idempotency, late-arriving data handling, scheduling, and SCD2.
+
+**Streaming & CDC:** Familiar with Apache Kafka and Debezium fundamentals for event streaming and log-based Change Data Capture (CDC).
+
+**DevOps:** Docker, Git, GitHub Actions, GitLab CI/CD. Familiar with Kubernetes.
+
+**Analytics & BI:** Looker Studio, Excel.
 
 ---
+
 
 ### GitHub Stats
 
