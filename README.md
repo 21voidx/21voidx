@@ -39,9 +39,6 @@ Experienced with Apache Airflow, dbt, BigQuery, Trino, Docker, and CI/CD through
 
 ### GitHub Stats
 
-<p align="left">
-  <a href="https://github.com/21voidx">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=21voidx&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="Hafizh's GitHub statistics"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=21voidx&layout=compact&langs_count=8&theme=algolia" alt="Hafizh's most used languages"/>
-  </a>
-</p>
+[![21voidx's GitHub stats](https://github-stats-extended.vercel.app/api?username=21voidx)](https://github.com/stats-organization/github-stats-extended)
+
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=21voidx&langs_count=4)
