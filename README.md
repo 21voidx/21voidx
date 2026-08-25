@@ -35,10 +35,3 @@ Experienced with Apache Airflow, dbt, BigQuery, Trino, Docker, and CI/CD through
 **Analytics & BI:** Looker Studio, Excel.
 
 ---
-
-
-### GitHub Stats
-
-[![21voidx's GitHub stats](https://github-stats-extended.vercel.app/api?username=21voidx)](https://github.com/stats-organization/github-stats-extended)
-
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=21voidx&langs_count=4)
