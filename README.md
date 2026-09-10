@@ -18,20 +18,14 @@ Experienced with Apache Airflow, dbt, BigQuery, Trino, Docker, and CI/CD through
 
 ### Tech Stack
 
-**Programming:** SQL, Python, C++
-
-**Data Pipelines & Orchestration:** Apache Airflow, dbt, Trino. Familiar with PySpark.
-
-**Cloud & Database:** BigQuery, GCS, PostgreSQL, AWS S3
-
-**Warehousing & Modeling:** PostgreSQL, dimensional modeling, data marts, partitioning, clustering, incremental models.
-
-**Data Engineering Concepts:** Incremental processing, backfills, deduplication, idempotency, late-arriving data handling, scheduling, and SCD2.
-
-**Streaming & CDC:** Familiar with Apache Kafka and Debezium fundamentals for event streaming and log-based Change Data Capture (CDC).
-
-**DevOps:** Docker, Git, GitHub Actions, GitLab CI/CD. Familiar with Kubernetes.
-
-**Analytics & BI:** Looker Studio, Excel.
+**Programming:** SQL, Python 
+**Data Pipelines & Orchestration:** Apache Airflow, dbt, Trino. PySpark (Familiar). 
+**Cloud & Database:** BigQuery, GCS, PostgreSQL, MySQL, AWS S3 
+**Warehousing & Modeling:** dimensional modeling, data marts, partitioning, clustering, incremental models. 
+**Data Engineering Concepts:** Incremental processing, backfills, deduplication, idempotency, late-arriving data handling, 
+scheduling and SCD2. 
+**Streaming & CDC:** Kafka (Familiar), Debezium (Familiar) 
+**DevOps:** Docker, Git, GitHub Actions, GitLab CI/CD. Kubernetes (Familiar).  
+**Analytics & BI:** Looker Studio, Excel. PowerBI (Familiar) 
 
 ---
